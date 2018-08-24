@@ -1,6 +1,6 @@
 # jojo-online-item-enhancement
 
-> jojo-online-item-enhancement[front-end]
+> jojo-online-item-enhancement [front-end]
 
 ## Build Setup
 
